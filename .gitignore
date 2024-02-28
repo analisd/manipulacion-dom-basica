@@ -236,6 +236,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Example
-.example.js
+*.example.js
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
